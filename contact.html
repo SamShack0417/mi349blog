@@ -17,9 +17,24 @@
         </nav>
     </header>
     <form name="contact" method="post">
-        <input type="text" name="subscriber-name" id="subscriber-name" placeholder="Name">
-        <input type="email" name="subscriber-email" id="subscriber-email" placeholder="Email">
-        <input type="submit" value="Subscribe">
+        <p><input type="text" name="subscriber-name" id="subscriber-name" placeholder="Name"></p>
+        <p><input type="email" name="subscriber-email"
+         id="subscriber-email" placeholder="Email"></p>
+         <p>
+            <label for="pet-select">Choose a pet:</label><br>
+
+<select name="communication" id="communication">
+  <option value="hi">Saying hi</option>
+  <option value="contractor">Looking for a contractor</option>
+  <option value="interview">Interested in an interview</option>
+</select>
+         </p>
+         <p><label for="story">Tell us your story:</label><br>
+
+            <textarea id="story" name="story" rows="5" cols="33">
+            </textarea>
+            </p>
+        <p><input type="submit" value="Get in touch with me"></p>
       </form>
 </body>
 </html>
