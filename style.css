@@ -1,101 +1,43 @@
 body {
-    background-color: black;
-    color: white;
-  }
+  background-color: black;
+  color: white;
+}
 
-  header {
-    position: sticky;
-    top: 0;
-  }
+header {
+  position: sticky;
+  top: 0;
+}
 
-  nav {
-    background: #fff;
-  }
-  
-  h1 {
-    background-color: black;
-    color: white;
-  }
-  
-  div {
-    background-color: blue;
-    color: white;
-  }
+nav {
+  background: #fff;
+}
 
-  p {
-    background-color: black;
-    color: green;
-  }
-  
-  h2 {
-    background-color: black;
-    color: orange;
-  }
-  
-  div {
-    background-color: blue;
-    color: white;
-  }
+img {
+  width: 100%;
+}
 
-  p {
-    background-color: black;
-    color: orange;
-  }
-  
-  h2 {
-    background-color: black;
-    color: purple;
-  }
-  
-  div {
-    background-color: blue;
-    color: black;
-  }
+p img {
+  width: 200px;
+  float: left;
+}
 
-  body {
-    background-color: orange;
-    color: black;
-  }
-  
-  h1 {
-    background-color: black;
-    color: green;
-  }
-  
-  div {
-    background-color: blue;
-    color: white;
-  }
+#about {
+  display: flex;
+}
 
-  p {
-    background-color: white;
-    color: red;
-  }
-  
-  h2 {
-    background-color: white;
-    color: pink;
-  }
-  
-  div {
-    background-color: blue;
-    color: brown;
-  }
+h1 {
+  background-color: black;
+  color: white;
+}
 
-  div {
-    background-color: blue;
-    color: brown;
-  }
+p {
+  background-color: black;
+  color: green;
+}
 
-  div {
-    background-color: blue;
-    color: brown;
-  }
-
-  div {
-    background-color: blue;
-    color: brown;
-  }
-
+h2 {
+  background-color: black;
+  color: orange;
+}
 
 
