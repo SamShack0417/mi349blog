@@ -1,6 +1,15 @@
 body {
-    background-color: lightgrey;
-    color: blue;
+    background-color: black;
+    color: white;
+  }
+
+  header {
+    position: sticky;
+    top: 0;
+  }
+
+  nav {
+    background: #fff;
   }
   
   h1 {
@@ -12,3 +21,81 @@ body {
     background-color: blue;
     color: white;
   }
+
+  p {
+    background-color: black;
+    color: green;
+  }
+  
+  h2 {
+    background-color: black;
+    color: orange;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+
+  p {
+    background-color: black;
+    color: orange;
+  }
+  
+  h2 {
+    background-color: black;
+    color: purple;
+  }
+  
+  div {
+    background-color: blue;
+    color: black;
+  }
+
+  body {
+    background-color: orange;
+    color: black;
+  }
+  
+  h1 {
+    background-color: black;
+    color: green;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+
+  p {
+    background-color: white;
+    color: red;
+  }
+  
+  h2 {
+    background-color: white;
+    color: pink;
+  }
+  
+  div {
+    background-color: blue;
+    color: brown;
+  }
+
+  div {
+    background-color: blue;
+    color: brown;
+  }
+
+  div {
+    background-color: blue;
+    color: brown;
+  }
+
+  div {
+    background-color: blue;
+    color: brown;
+  }
+
+
+
